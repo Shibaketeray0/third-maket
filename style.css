@@ -292,6 +292,7 @@ input {
 
 /*Content blocks*/
 .content {
+  background: #fff;
   flex: 0 0 100%;
   justify-content: space-between; }
 
